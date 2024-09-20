@@ -17,7 +17,7 @@ Data & Machine Learning ES (**Data & ML 🇪🇸**) is a dedicated space for sho
 
 By combining the power of **mathematics** with all these disciplines, we strive to drive innovation and tackle real-world challenges.
 
-
+![Image DataMLes About](/images/DataMLes_about.png)
 
 ### What is Data & ML all about? 🤔
 
