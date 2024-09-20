@@ -1,13 +1,23 @@
 ---
 permalink: /
-title: "Welcome to @DataMLes Portfolio: Discover Our Projects 🚀💻"
+title: "Welcome to @DataMLes Portfolio 🚀"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-**Data & Machine Learning ES** (Data & ML 🇪🇸) is a space dedicated to showcasing projects and initiatives that explore the power of data and artificial intelligence. 🧠💡 Our goal is to share innovative work that applies **data science** and **machine learning** to real-world challenges. 🚀
+Data & Machine Learning ES (**Data & ML 🇪🇸**) is a dedicated space for showcasing our projects and initiatives across various fields, including:
+
+- **Data Science** 📊
+- **Machine Learning** 🤖
+- **Programming** in languages such as Python, R, C#, and Unity 🖥️
+- **Artificial Intelligence** 🧠
+- **Computer Vision** 👁️
+
+By combining the power of **mathematics** with all these disciplines, we strive to drive innovation and tackle real-world challenges.
+
+
 
 ### What is Data & ML all about? 🤔
 
