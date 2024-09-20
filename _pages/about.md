@@ -1,11 +1,43 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to @DataMLes Portfolio: Discover Our Projects 🚀💻"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+**Data & Machine Learning ES** (Data & ML 🇪🇸) is a space dedicated to showcasing projects and initiatives that explore the power of data and artificial intelligence. 🧠💡 Our goal is to share innovative work that applies **data science** and **machine learning** to real-world challenges. 🚀
+
+### What is Data & ML all about? 🤔
+
+At Data & ML, we're focused on:
+- **Building and sharing projects** that leverage cutting-edge technologies in the fields of data science, machine learning, and artificial intelligence. 🧑‍💻📊
+- Applying these tools to solve complex problems, automate tasks, and provide meaningful insights through data-driven approaches. 📈🔍
+
+Every initiative we work on is driven by a passion for innovation and the pursuit of **intelligent solutions** in an ever-evolving tech landscape. 🌍✨
+
+### Explore the Portfolio 🚪
+
+🔗 All of our work and projects are showcased in the **[Portfolio](https://pages.github.com)** section. This is the heart of Data & ML, where you'll find hands-on projects, case studies, and detailed explanations of how we’re utilizing **data science** and **machine learning** to push boundaries.
+
+- Curious about machine learning applications? 🤖 Check out our AI-powered models and predictive algorithms.
+- Interested in big data? 📊 Explore the projects that harness large datasets to uncover hidden patterns and insights.
+- Want to see our latest innovations? 🧠 Browse the **Portfolio** for continuous updates on the projects we’re working on.
+
+### Why Data & ML? 🚀
+
+Data & ML is more than just a collection of projects – it’s a growing platform for **learning, experimenting**, and **sharing** ideas in the fields of data science and machine learning. Whether you're a fellow enthusiast, researcher, or just curious, this site is designed to inspire and engage. 🌱✨
+
+Stay tuned as we continue to add more exciting initiatives to the **Portfolio**, and feel free to explore what's already there!
+
+---
+
+Ready to dive into the world of data and machine learning? 🌐🧠 Let’s explore together and see where the data leads! 🎉👨‍💻👩‍💻
+
+
+
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
